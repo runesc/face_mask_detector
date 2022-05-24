@@ -1,0 +1,8 @@
+{
+    "app_name": "Spartan Martial Center & Gym.",
+    "author": "Ricardo Huerta Alonso",
+    "main_module": "src/main/python/main.py",
+    "version": "1.0.0",
+    "binding": "PySide6",
+    "hidden_imports": ["pandas._libs.tslibs.base", "yaml", "PIL.ExifTags", "seaborn", "pandas._libs.window"]
+}
